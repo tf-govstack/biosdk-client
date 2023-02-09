@@ -242,7 +242,7 @@
 
             <plugin>
                <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-gpg-plugin</artifactId>
+               <artifactId>maven-gpg-plugin</artifactId>
                <version>1.5</version>
                <executions>
                    <execution>
@@ -253,7 +253,7 @@
                        </goals>
                        <configuration>
                            <gpgArguments>
-                               <arg>&#45;&#45;pinentry-mode</arg>
+                               <arg>--pinentry-mode</arg>
                                <arg>loopback</arg>
                            </gpgArguments>
                        </configuration>
