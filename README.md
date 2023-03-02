@@ -10,3 +10,4 @@ To know more, refer [here](https://https://docs.mosip.io/1.2.0/biometrics/biomet
 
 ### License
 This project is licensed under the terms of [Mozilla Public License 2.0](LICENSE).
+
